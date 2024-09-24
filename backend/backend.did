@@ -1,0 +1,4 @@
+service : {
+  getJokeCounter: () -> (nat);
+  incrementJokeCounter: () -> ();
+}
